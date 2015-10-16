@@ -50,6 +50,40 @@ console.log("You have cards " + playerCard1 + " and " + playerCard2 +
         " for a score of " + playerScore(playerCard1, playerCard2));
 
 
-var playerHit = function () {
-  if (playerScore < 21)
-}
+// var playerHit = function () {
+//   if (playerScore < 21)
+
+// }
+
+
+
+
+
+var playerHand = [];
+var dealerHand = [];
+
+var 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
